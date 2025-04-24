@@ -1,2 +1,2 @@
 # Portfolio-Website
-This is my personal portfolio for proffesional works . 
+This is my personal portfolio for professional works . 
